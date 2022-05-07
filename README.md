@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Shrihith-a
+- 👋 Hi, I’m @Shrihith A
 - 👀 I’m interested in ... Python, R, Datacience, Bioinformatics,Ml, AI, Deep learning,  Data Analysis
 - 🌱 I’m currently learning ... Data Science, ML, AI, Deep learning
 - 💞️ I’m looking to collaborate on ... Bioinformatics related projects
-- 📫 How to reach me ... ashrihith93@gmail.com
+- 📫 How to reach me ... shrihith93@gmail.com
 - 📫 Website ... https://shrihith.github.io/
 
 <!---
